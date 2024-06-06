@@ -23,6 +23,6 @@ Example: Installing brave from AUR
 
 ## Removing packages
 
-Can be removed just like any other software uwing pacman
+Can be removed just like any other software using pacman
 
 ```sudo pacman -Rs brave-bin```
